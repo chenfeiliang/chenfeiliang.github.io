@@ -1,2 +1,49 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>陈飞良的博客</title><link>https://chenfeiliang.github.io/</link><description>人生的意义在于经历</description><copyright>陈飞良的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://chenfeiliang.github.io/</link></image><lastBuildDate>Mon, 07 Jul 2025 16:13:40 +0000</lastBuildDate><managingEditor>陈飞良的博客</managingEditor><ttl>60</ttl><webMaster>陈飞良的博客</webMaster><item><title>hello</title><link>https://chenfeiliang.github.io//post/hello.html</link><description>此版本的 GitHub Enterprise 将停止服务 此版本的 GitHub Enterprise 已停止服务 2019-07-12. 即使出现严重安全问题，也不会发布补丁。</description><guid isPermaLink="true">https://chenfeiliang.github.io//post/hello.html</guid><pubDate>Mon, 07 Jul 2025 15:34:41 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>陈飞良的博客</title><link>https://chenfeiliang.github.io/</link><description>人生的意义在于经历</description><copyright>陈飞良的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://chenfeiliang.github.io/</link></image><lastBuildDate>Mon, 07 Jul 2025 16:21:57 +0000</lastBuildDate><managingEditor>陈飞良的博客</managingEditor><ttl>60</ttl><webMaster>陈飞良的博客</webMaster><item><title>JavaSe复习</title><link>https://chenfeiliang.github.io//post/JavaSe-fu-xi.html</link><description>[1. java体系](https://www.cnblogs.com/cfl-yin/p/9314001.html#1F)
+
+[2. java核心体制](https://www.cnblogs.com/cfl-yin/p/9314001.html#2F)
+
+[3. 环境配置](https://www.cnblogs.com/cfl-yin/p/9314001.html#3F)
+
+[4. 基础语法](https://www.cnblogs.com/cfl-yin/p/9314001.html#4F)
+
+[5. 面向对象](https://www.cnblogs.com/cfl-yin/p/9314001.html#5F)
+
+[6. 异常（Exception）](https://www.cnblogs.com/cfl-yin/p/9314001.html#6F)
+
+[7. 数组（Array）](https://www.cnblogs.com/cfl-yin/p/9314001.html#7F)
+
+[8. 基础类（常用类）](https://www.cnblogs.com/cfl-yin/p/9314001.html#8F)
+
+[9. 输入输出 流 （I/O Stream）](https://www.cnblogs.com/cfl-yin/p/9314001.html#9F)
+
+[10.容器/泛型 （Collection / Generic）](https://www.cnblogs.com/cfl-yin/p/9314001.html#10F)
+
+[11. 线程 （Thread）](https://www.cnblogs.com/cfl-yin/p/9314001.html#11F)
+
+[12.网络编程 （TCP/UDP）](https://www.cnblogs.com/cfl-yin/p/9314001.html#12F)
+
+[13. GUI](https://www.cnblogs.com/cfl-yin/p/9314001.html#13F)
+
+[14. Meta Data](https://www.cnblogs.com/cfl-yin/p/9314001.html#14F)
+
+[15 正则表达式](https://www.cnblogs.com/cfl-yin/p/9314001.html#15F)
+
+ 
+
+1. java体系
+
+
+2. java核心体制
+2.1 java虚拟机
+2.2 java回收机制
+3. 环境配置
+4. 基础语法
+4.1 标识符
+4.1.1 什么是表示符
+4.1.2 命名规则
+（1) 组成
+
+（2）开头
+
+（3）大小写敏感，无长度限制。</description><guid isPermaLink="true">https://chenfeiliang.github.io//post/JavaSe-fu-xi.html</guid><pubDate>Mon, 07 Jul 2025 15:34:41 +0000</pubDate></item></channel></rss>
